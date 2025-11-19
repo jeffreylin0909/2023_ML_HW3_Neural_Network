@@ -9,5 +9,5 @@ The following Classes are implemented:
 
 Two dataset is tested:
 - basic_data.npz: Predict patients’ health conditions, which get 90.00% accuracy on validation data.
-- advanced_data.npz: MNIST handwritten digit dataset, which get 89.09% accuracy on validation data.
+- advanced_data.npz: MNIST handwritten digit dataset, which get 89.45% accuracy on validation data.
 
